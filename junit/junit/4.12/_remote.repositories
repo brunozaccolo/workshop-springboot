@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 20:16:53 BRT 2018
+junit-4.12.jar>beam-archiva=
+junit-4.12.pom>beam-archiva=

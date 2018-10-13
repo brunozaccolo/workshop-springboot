@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 20:16:53 BRT 2018
+mongodb-driver-core-3.4.3.jar>beam-archiva=
+mongodb-driver-core-3.4.3.pom>beam-archiva=

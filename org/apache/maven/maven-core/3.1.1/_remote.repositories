@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 20:19:00 BRT 2018
+maven-core-3.1.1.jar>beam-archiva=
+maven-core-3.1.1.pom>beam-archiva=

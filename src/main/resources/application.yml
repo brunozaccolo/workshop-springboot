@@ -1,0 +1,19 @@
+spring:
+ application:
+   name: workshop-springboot
+ data:
+   mongodb:
+     uri: ${mongodb_uri:mongodb://localhost:27017/workshop-springboot}
+ cloud:
+   consul:
+     host: localhost
+     port: 8500
+     config:
+       enabled: true
+       prefix: config
+       defaultContext: apps
+       profileSeparator: '::'
+       
+logging:
+  level:
+    root: ${logging-level:INFO}       
